@@ -5,8 +5,6 @@
     <option name="FONT_SCALE" value="1.25" />
   </component>
   <component name="EditorSettings">
-    <option name="USE_SOFT_WRAPS" value="MAIN_EDITOR" />
-    <option name="IS_VIRTUAL_SPACE" value="true" />
-    <option name="ADDITIONAL_PAGE_AT_BOTTOM" value="true" />
+    <option name="USE_SOFT_WRAPS" value="" />
   </component>
 </application>
