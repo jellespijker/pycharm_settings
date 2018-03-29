@@ -11,6 +11,7 @@
       <debugger id="python">
         <configuration>
           <option name="librariesFilterEnabled" value="true" />
+          <option name="loadValuesAsync" value="false" />
           <option name="steppingFiltersEnabled" value="true" />
         </configuration>
       </debugger>
